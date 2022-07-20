@@ -16,5 +16,6 @@
 ***
 ## 使用方法
 1. 安装Python
-2. 安装库openpyxl,requests,you-get,easygui,win10toast
-3. 运行main.py并按照提示使用
+2. 将tools文件夹下的ffmpeg.7z解压，得到ffmpeg.exe
+3. 安装库openpyxl,requests,you-get,easygui,win10toast
+4. 运行main.py并按照提示使用
