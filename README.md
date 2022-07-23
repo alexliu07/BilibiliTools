@@ -14,7 +14,7 @@
 5. 仅分析本地弹幕
 6. 解密用户UID，并获取用户信息
 ***
-## 使用方法
+## 使用方法（仅支持Windows系统）
 1. 安装Python
 2. 将tools文件夹下的ffmpeg.7z解压，得到ffmpeg.exe
 3. 安装库openpyxl,requests,you-get,easygui,win10toast
