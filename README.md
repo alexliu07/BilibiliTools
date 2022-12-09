@@ -19,7 +19,7 @@
 ## 使用方法（仅支持Windows系统）
 1. 安装<a href="https://www.python.org/">Python</a>
 2. 将ffmpeg文件夹下的ffmpeg.7z解压，得到ffmpeg.exe
-3. 安装库openpyxl,requests,you-get,easygui,filetype
+3. 安装库openpyxl,requests,you-get,easygui,filetype<br>`pip install openpyxl requests you-get easygui filetype`
 4. 获取视频BV号
 5. 运行main.py并按照提示使用
 ***
